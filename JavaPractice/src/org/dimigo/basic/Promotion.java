@@ -1,4 +1,10 @@
 package org.dimigo.basic;
+/**
+ * 디미베네 연간 인건비 계산하기
+ * 
+ * @author HyunWooKim
+ *
+ */
 
 public class Promotion {
 
