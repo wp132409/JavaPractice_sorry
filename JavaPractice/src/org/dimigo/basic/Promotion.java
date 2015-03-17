@@ -23,7 +23,6 @@ public class Promotion {
 		
 		System.out.format("\n\n연간 인건비 : %,d원", yearMoney);
 		
-
 	}
 
 }
