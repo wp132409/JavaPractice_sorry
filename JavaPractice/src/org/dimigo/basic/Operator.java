@@ -6,10 +6,11 @@ public class Operator {
 		
 		int a = 9;
 		int b = 10;
-		double h = 5.8;
+		double h1 = 5.8;
+		double h2 = 5.4;
 		
-		double ladder = (a + b)*h/2;
-		double square = a*h;
+		double ladder = (a + b)*h1/2;
+		double square = a*h2;
 		
 		System.out.println("<< 도형 넓이 비교 >>");
 		System.out.printf("사다리꼴 넓이 : %.1f\n",ladder);
